@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="judul">judul</string>
+    <string name="description">description</string>
+    <string-array name="judul_video">
+        <item>GAMKONORA</item>
+        <item>KAMBUNO</item>
+        <item>PANRANGO SERIES</item>
+        <item>SEMERU</item>
+        <item>TAMBORA</item>
+        <item>TAMBORA UL</item>
+
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>Spesifikasi: Flysheet: 20D nylon silicon coating 3000mm, UPF 50+, seam taped Inner Tent: nylon mesh Floor: 40D nylon silicon coating 3000mm, seam taped Weight: 1500 gram Peg: Small aluminum y stakes Guyrope: reflecting guyrope D3mm with triangle stopper Other features: Pockets, lamp hanger Two poles construction Size: 210 x (50 + 120 + 50) x 125 cm Package size: 36 x 12 cm</item>
+        <item>Dengan lebar inner 120 cm, Kambuno merupakan ultralight tent dengan kapasitas 1-2 orang. Hadir dengan floor yang tinggi, sehingga angin akan terhalau dan tidak langsung menusuk badanmu. Dengan desain seperti ini, akan lebih aman juga dari cipratan air masuk ke dalam inner. Untuk spesifikasi yang ditawarkan, tentunya harganya terjangkau IDR1,075,000 aja!! Buruan disikaat!! Spesifikasi: Flysheet: 20D nylon silicon coating 3000mm, UPF 50+, seam taped Inner Tent: nylon mesh Floor: 40D nylon silicon coating 3000mm, seam taped Weight: 980 gram Peg: Small aluminum y stakes Guyrope: reflecting guyrope D3mm with triangle stopper Other features: Pockets, lamp hanger Size: 210 x (120 + 50) x 125 cm Package size: 35 x 12 cm</item>
+        <item>Flysheet: 190T polyester PU 3000mm, UPF 50+, seam taped\n Inner Tent: 190T Breathable + B3 mesh\n Floor: 190T polyester PU 3000mm, seam taped\n Footprint: 150D Oxford PU 3000mm, seam taped\n Weight: 2.200 gram include footprint\n Poles: Aluminum poles 8.5 mm with joining\n Peg: Aluminum stakes\n Guyrope: Reflecting guyrope D3mm with triangle stopper\n Other features: Pockets, lamp hanger\n Size: 210 x (60 + 135 + 50) x 105 cm\n Package size: 45 x 14 cm</item>
+        <item>Spesifikasi: Flysheet: 210T Ripstop polyester PU 3000mm, UPF 50+, seam taped Inner Tent: 190T Ripstop Breathable + B3 mesh Floor: 210T Ripstop polyester PU 3000mm, seam taped Footprint: 210T Ripstop polyester PU 3000mm, seam taped (350 gram) Weight: 2800 gram (exclude footprint) Poles: Aluminum poles 8.5 mm with triangle joining Peg: Aluminum y stakes Guyrope: reflecting guyrope D3mm with triangle Other features: Pockets, lamp hanger Size: 210 x (70 + 180 + 70) x 110 cm (see picture for details) Package size: 45 x 16 cm</item>
+        <item>Flysheet: 210T Ripstop polyester PU 3000mm, UPF 50+, seam taped Inner Tent: 190T Ripstop Breathable + B3 mesh Floor: 210T Ripstop polyester PU 3000mm, seam taped Footprint: 210T Ripstop polyester PU 3000mm, seam taped (200 gram) Weight: 2350 gram (exclude footprint) Poles: Aluminum poles 8.5 mm with triangle joining Peg: Aluminum y stakes Guyrope: reflecting guyrope D3mm with aluminium stopper Other features: Pockets, lamp hanger Size: 210 x (70 + 140 + 70) x 105 cm (see picture for details )Package size: 40 x 15 cm</item>
+        <item>Flysheet: 20D Nylon Ripstop PU 3000mm, UPF 50+, seam taped Inner Tent: 20D ripstop breathable + nylon mesh Floor: 40D Nylon Ripstop PU 3000mm, seam taped Footprint: 210T Ripstop polyester PU 3000mm, seam taped (250 gram) Weight: 1900 gram (exclude footprint) Poles: Aluminum poles 8.5 mm with triangle joining Peg: Aluminum y stakes Guyrope: reflecting guyrope D3mm with triangle stopper Other features: Pockets, lamp hanger Size: 210 x (70 + 140 + 70) x 105 cm (see picture for details) Package size: 38 x 15 cm</item>
+
+    </string-array>
+
+
+    <array name="video_id">
+        <item>@raw/gamkonoravid</item>
+        <item>@raw/kambunovid</item>
+        <item>@raw/parangoseriesvid</item>
+        <item>@raw/semeruvid</item>
+        <item>@raw/tamboravid</item>
+        <item>@raw/tamboraulvid</item>
+
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/gamkonora</item>
+        <item>@drawable/kambuno</item>
+        <item>@drawable/panrangoseries</item>
+        <item>@drawable/semeru</item>
+        <item>@drawable/tambora</item>
+        <item>@drawable/tamboraul</item>
+
+
+    </integer-array>
+</resources>
